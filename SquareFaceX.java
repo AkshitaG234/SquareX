@@ -1,14 +1,6 @@
 import java.awt.Graphics;
 import java.awt.Color;
 
-/*
-   Akshita Gangiredla
-   CS210 Fall Quarter
-   
-   This program draws 30 squares with faces
-   as an X utilizing Graphics.
-*/ 
-
 public class SquareFaceX {
    public static void main(String[] args) {
       //creating the panel and the graphics
